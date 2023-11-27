@@ -1,0 +1,13 @@
+bpnpnet@ git+https://github.com/SergioRAgostinho/bpnpnet.git@package#egg=bpnpnet
+numpy
+opencv-python
+Pillow
+pytorch-lightning
+scipy
+torch
+torch-scatter
+tqdm
+
+[full]
+wget
+colmap@ git+https://github.com/SergioRAgostinho/colmap.git@python-packaging#egg=colmap
